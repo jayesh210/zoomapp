@@ -1,0 +1,5 @@
+https://personalblogwebsite.herokuapp.com/
+
+without login contact us page or  about user profile page will not open ,once you login you can visit both page.
+
+run "npm i" first in client folder then in server folder
